@@ -4,4 +4,4 @@
 
 ## Petree서비스의 주요 기능 정리 및 성능 개선을 목표로 하였습니다.
 
-- [Oauth개념 및 동작방식]()
+- [Oauth개념 및 동작방식](https://github.com/Suxxxxhyun/trouble-shooting-archive/blob/main/oauth(1).md)
