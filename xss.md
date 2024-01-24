@@ -2,7 +2,7 @@
 - 악의적인 사용자가 공격하려는 사이트에 스크립트를 넣는 기법으로
 - XSS를 통해 사용자의 쿠키나 세션등의 민감한 정보를 탈취할 수 있다.
 
-[<img src="../image/Stored XSS.PNG">](https://github.com/Suxxxxhyun/trouble-shooting-archive/blob/main/image/Stored%20XSS.PNG)
+<img src="https://github.com/Suxxxxhyun/trouble-shooting-archive/blob/main/image/Stored%20XSS.PNG">
 
 ### Stored XSS
 
