@@ -6,6 +6,7 @@
 - Redis는 key-value쌍으로 데이터를 관리할 수 있는 data storage이다. DB가 아닌 data storage라고 표현하지 않은 이유는 기본적으로 Redis는 in-memory로 데이터를 관리하므로, 저장된 데이터가 영속적이지 않기 때문이다.
   - 이때 in-memory란?
   <img src="https://github.com/Suxxxxhyun/trouble-shooting-archive/blob/main/image/disk-inmemory.PNG">
+
     - DISK DBMS의 경우 
       - 디스크에 저장된 내용을 메인 메모리로 로딩을 해야하며 실행을 위해서는 cpu로 해당 데이터를 재전송해야한다. 하지만 메모리가격보다 저렴하다.
     - in-memory DBMS의 경우
