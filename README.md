@@ -9,7 +9,7 @@
   - cookie : session id를 전달하기 위한 매개체
   - session과 jwt의 가장 큰 차이
     - DB에 접근하냐? 접근하지 않냐?, DB가 필요하냐?, 필요하지 않냐?
-- [Refresh Token을 redis에 저장한 이유?]()
+- [Refresh Token을 redis에 저장한 이유?](https://github.com/Suxxxxhyun/trouble-shooting-archive/blob/main/jwt-redis.md)
 - [XSS?](https://github.com/Suxxxxhyun/trouble-shooting-archive/blob/main/xss.md)
   - Cross Site Scripting : 악의적인 사용자가 공격하려는 사이트에 스크립트를 넣는 기법
 - [QueryDSL을 도입한 이유?](https://github.com/Suxxxxhyun/trouble-shooting-archive/blob/main/querydsl.md)
